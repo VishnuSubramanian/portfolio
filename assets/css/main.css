@@ -1,0 +1,23 @@
+#wrapper
+{
+	
+	max-width: 1200px;
+	
+}
+#logo
+{
+	text-align: center;
+	margin: 0;
+	display: inline;
+	background-color: #222;
+
+}
+.total
+{
+	background-color: #edeff0;
+}
+body
+{
+	margin: auto;
+	width: 90%;
+}
